@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{3FE2529B-7334-4B3C-85A3-F52596A678A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.SkiaPulse.Android PreferredExecutionTarget="Android.android_accelerated_oreo_1" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SkiaPulse.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CDE7F249-0686-4755-A2E7-867C568AE492" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
