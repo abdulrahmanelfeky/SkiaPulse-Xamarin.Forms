@@ -25,7 +25,7 @@ Pulse animation for xamarin forms based on SkiaSharp
 ------------
 
 # Quickstart 
-##### Xml
+##### Xaml
 ```xml
      <SkiaPulse:Pulse AutoStart="true" 
                       PulseColor="#8e44ad" 
