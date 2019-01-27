@@ -2,11 +2,13 @@
 Pulse animation for xamarin forms based on SkiaSharp
 
 ------------
+
 <html>
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms/master/appVideo.gif" height="600">
 </p>
 </html>
+
 ------------
 
 <html>
