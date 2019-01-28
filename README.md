@@ -3,26 +3,36 @@ Pulse animation for xamarin forms based on SkiaSharp
 
 ------------
 
-
-![](https://raw.githubusercontent.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms/master/appVideo.gif)
-
-------------
-
-
-![](https://raw.githubusercontent.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms/master/skiapulse_screenshot.png)
+<html>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms/master/appVideo.gif" height="600">
+</p>
+</html>
 
 ------------
 
+<html>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms/master/skiapulse_screenshot.png" height="600">
+</p>
+</html>
+
+------------
 
 # Compatibility 
 - Xamarin.Forms
 
 ------------
 
-
 # Quickstart 
-##### Xml
-           <SkiaPulse:Pulse AutoStart="true" PulseColor="#8e44ad" Margin="50" Speed="10" Source="SkiaPulse.Images.wifi_icon.png"  />
+##### Xaml
+```xml
+     <SkiaPulse:Pulse AutoStart="true" 
+                      PulseColor="#8e44ad" 
+                      Margin="50" 
+                      Speed="10" 
+                      Source="SkiaPulse.Images.wifi_icon.png"  />
+```
 
 Use an image resource as an Embedded Resource
 Do not add the image as a resource.  would rather do the following:
